@@ -1,0 +1,21 @@
+{
+  "name": "LocalLearn",
+  "version": "1.0.0",
+  "description": "LocalLearn Web App Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stevengez/LocalLearn.git"
+  },
+  "keywords": [],
+  "author": "Steven Jocol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stevengez/LocalLearn/issues"
+  },
+  "homepage": "https://github.com/Stevengez/LocalLearn#readme"
+}
